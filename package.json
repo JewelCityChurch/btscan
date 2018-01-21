@@ -1,0 +1,15 @@
+{
+  "name": "btscan",
+  "version": "0.0.1",
+  "description": "scan for bluetooth devices and communicate to bttracker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bleacon": "^0.5.1",
+    "noble": "^1.8.1"
+  }
+}

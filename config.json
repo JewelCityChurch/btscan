@@ -1,0 +1,10 @@
+{
+	"uuid" : "00000000000000007777000000000001",
+	"bttrackBase" : "http://127.0.0.1:9000/api",
+	"configURI" : "https://raw.githubusercontent.com/sandeepmistry/noble/master/package.json",
+	"lastSeenMax" : 5000,
+	"lastSeenScan" : 500,
+	"updateInterval" : 30000,
+	"newConfigInterval" : 10000,
+	"btscan-config" : 1
+}
